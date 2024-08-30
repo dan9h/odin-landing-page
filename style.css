@@ -108,6 +108,11 @@ body {
   border-radius: 1rem;
 }
 
+.card-subtext {
+  font-size: 18px;
+  color: #6d747d;
+}
+
 #quote {
   background-color: #e5e7eb;
   padding-block: 5rem;
