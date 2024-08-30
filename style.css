@@ -157,3 +157,14 @@ body {
 .cta-button.bordered {
   border: 2px solid #f9faf8;
 }
+
+#footer {
+  background-color: #1f2937;
+  padding-block: 1.5rem;
+}
+
+#footer-text {
+  text-align: center;
+  color: #f9faf8;
+  font-size: 18px;
+}
