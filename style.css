@@ -125,3 +125,30 @@ body {
   font-weight: 700;
   font-size: 24px;
 }
+
+#cta {
+  padding-block: 8rem;
+}
+
+#cta-content {
+  background-color: #3882f6;
+  border-radius: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 6rem;
+}
+
+#cta-text h2 {
+  margin-block: 0.5em 0;
+  color: #f9faf8;
+}
+
+#cta-text > p {
+  margin-top: 0;
+  color: #e5e7eb;
+}
+
+.cta-button.bordered {
+  border: 2px solid #f9faf8;
+}
