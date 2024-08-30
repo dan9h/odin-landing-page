@@ -71,9 +71,15 @@ body {
 
 .cta-button {
   background-color: #3882f6;
-  padding: 0.5rem 2rem;
+  padding: 0.5rem 2.25rem;
   border-radius: 0.5rem;
   display: inline-block;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.cta-button:hover {
+  background-color: #5e97f3;
 }
 
 #hero-image-placeholder {
